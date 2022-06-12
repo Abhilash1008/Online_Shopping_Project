@@ -1,5 +1,5 @@
  
-   public class MaxTest
+   public class MaximumTest
 {
      MaxTest(int x , int y)
 {
